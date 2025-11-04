@@ -1,2 +1,2 @@
 # SQL_projects
-My SQL projects
+Collection of files with SQL exercises.
